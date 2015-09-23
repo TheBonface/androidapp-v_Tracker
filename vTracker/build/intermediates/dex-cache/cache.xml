@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Bonface\AndroidStudioProjects\vTracker\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="C:\Users\Bonface\AndroidStudioProjects\vTracker\app\build\intermediates\pre-dexed\debug\classes-120d46609412a3e7288379a03e5b89627b9e5709.jar" />
+    </item>
+    <item
+        jar="C:\Users\Bonface\AndroidStudioProjects\vTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.8.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="adebe28e0c0c05d34a3bfd76f3275bf4d8ff87b6">
+        <dex dex="C:\Users\Bonface\AndroidStudioProjects\vTracker\app\build\intermediates\pre-dexed\debug\classes-66fdc1f6707b14c0a50755e08d684f34c6024e02.jar" />
+    </item>
+    <item
+        jar="C:\Users\Bonface\AndroidStudioProjects\vTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.8.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c0c912d58c9468b1f9d9769c8975afdf2c85d681">
+        <dex dex="C:\Users\Bonface\AndroidStudioProjects\vTracker\app\build\intermediates\pre-dexed\debug\classes-b54460090ffde8f905fe2c24afab7a74eeeb8676.jar" />
+    </item>
+    <item
+        jar="C:\Users\Bonface\AndroidStudioProjects\vTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\7.8.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="98137c4d12c50923f5809852b1ef4d1c4e162081">
+        <dex dex="C:\Users\Bonface\AndroidStudioProjects\vTracker\app\build\intermediates\pre-dexed\debug\classes-4b715fdeeaa03f9b4316f4e211a8d6ae3a7ff1f9.jar" />
+    </item>
+    <item
+        jar="C:\Users\Bonface\AndroidStudioProjects\vTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.8.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e23ea11124bb700eeddd4ab7aa848c615f493850">
+        <dex dex="C:\Users\Bonface\AndroidStudioProjects\vTracker\app\build\intermediates\pre-dexed\debug\classes-7e246b32a102ed917bcda59cb2eaff97c867c341.jar" />
+    </item>
+    <item
+        jar="C:\Users\Bonface\AndroidStudioProjects\vTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.8.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d11330ea68c0d964d30d5caed1f27e6b1488b189">
+        <dex dex="C:\Users\Bonface\AndroidStudioProjects\vTracker\app\build\intermediates\pre-dexed\debug\classes-81d5ccf5f153c600b727bc73b12b8b3f00c19d28.jar" />
+    </item>
+    <item
+        jar="C:\Users\Bonface\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="C:\Users\Bonface\AndroidStudioProjects\vTracker\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.0-d418fc41f14d70cc401c7030a3828722617de940.jar" />
+    </item>
+    <item
+        jar="C:\Users\Bonface\AndroidStudioProjects\vTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.8.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0124ce31248c0e8acfa2b28283c6d1a4d76e73d2">
+        <dex dex="C:\Users\Bonface\AndroidStudioProjects\vTracker\app\build\intermediates\pre-dexed\debug\classes-df2114a456d738b378ad53b109da90c6250acc5a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Bonface\AndroidStudioProjects\vTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.8.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="130b32ed466fa0f63efd4c7d6250ccd2ed506790">
+        <dex dex="C:\Users\Bonface\AndroidStudioProjects\vTracker\app\build\intermediates\pre-dexed\debug\classes-1cc849939f7c602487b80b47e9680d9ffe4d8bb5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Bonface\AndroidStudioProjects\vTracker\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="C:\Users\Bonface\AndroidStudioProjects\vTracker\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.0-f2e3c6abcd3611e5304a0414bbaf166a73bb74de.jar" />
+    </item>
+    <item
+        jar="C:\Users\Bonface\AndroidStudioProjects\vTracker\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0632f06970823b7e3436f649bfa65b47035c91d0">
+        <dex dex="C:\Users\Bonface\AndroidStudioProjects\vTracker\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-deab439392dc676ab6d32e7ea7c08467ac6687d9.jar" />
+    </item>
+    <item
+        jar="C:\Users\Bonface\AndroidStudioProjects\vTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.8.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="edea92852b40eee716e910af8dad9eeaa58fb0e1">
+        <dex dex="C:\Users\Bonface\AndroidStudioProjects\vTracker\app\build\intermediates\pre-dexed\debug\classes-7a229a8259c50499248b0d5a414684b528dbb65a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Bonface\AndroidStudioProjects\vTracker\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="C:\Users\Bonface\AndroidStudioProjects\vTracker\app\build\intermediates\pre-dexed\debug\classes-37764dfbf8805f123eba4224d793d56a9bdddb41.jar" />
+    </item>
+    <item
+        jar="C:\Users\Bonface\AndroidStudioProjects\vTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.8.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2e24e5f1b11170163028277de63f709e42525db4">
+        <dex dex="C:\Users\Bonface\AndroidStudioProjects\vTracker\app\build\intermediates\pre-dexed\debug\classes-40a6112a2ee0be912550c00aa8622caf0f063e69.jar" />
+    </item>
+    <item
+        jar="C:\Users\Bonface\AndroidStudioProjects\vTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.8.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c2ac04c5b232f6f0658ee4f1c13be09cd76406e2">
+        <dex dex="C:\Users\Bonface\AndroidStudioProjects\vTracker\app\build\intermediates\pre-dexed\debug\classes-a96c56f7f0f2ffb9b8af3636d90222ba0cf384b8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Bonface\AndroidStudioProjects\vTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.8.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="42a1ee578b62fd1bd28b3307a679dc9ba0791587">
+        <dex dex="C:\Users\Bonface\AndroidStudioProjects\vTracker\app\build\intermediates\pre-dexed\debug\classes-6b7e83594bca0f897c93c36d1b052e83bc3319b4.jar" />
+    </item>
+    <item
+        jar="C:\Users\Bonface\AndroidStudioProjects\vTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.8.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="77a9dcb5f8b1dba36aacaa9c150eb0942dbea158">
+        <dex dex="C:\Users\Bonface\AndroidStudioProjects\vTracker\app\build\intermediates\pre-dexed\debug\classes-595187a0901049e13e185de49064bc701f60b55a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Bonface\AndroidStudioProjects\vTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.8.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c5cafb324568d954780abb858c25db7ce675ab3c">
+        <dex dex="C:\Users\Bonface\AndroidStudioProjects\vTracker\app\build\intermediates\pre-dexed\debug\classes-65cd063410006f5d8e5c69d5d11187db6f2dc1a6.jar" />
+    </item>
+    <item
+        jar="C:\Users\Bonface\AndroidStudioProjects\vTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.8.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1ff30fa49c07a08c3035d7218a3efebf5680d522">
+        <dex dex="C:\Users\Bonface\AndroidStudioProjects\vTracker\app\build\intermediates\pre-dexed\debug\classes-4c96ffc8ad78f2e541f4618ec511da53563692da.jar" />
+    </item>
+    <item
+        jar="C:\Users\Bonface\AndroidStudioProjects\vTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.8.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4a135d56554069e5d0ff80e3220e887e57146ee5">
+        <dex dex="C:\Users\Bonface\AndroidStudioProjects\vTracker\app\build\intermediates\pre-dexed\debug\classes-b6185232577b3baf502cecf036f26c916596ae5d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Bonface\AndroidStudioProjects\vTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\7.8.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b99f0b78bbcb76b915bc6529a83b65d4d46990dd">
+        <dex dex="C:\Users\Bonface\AndroidStudioProjects\vTracker\app\build\intermediates\pre-dexed\debug\classes-7ec02273c3fac15d8f71c145cd7a165619290457.jar" />
+    </item>
+    <item
+        jar="C:\Users\Bonface\AndroidStudioProjects\vTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.8.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6e85edfc9b5346d216e50ccef1f8e825504144a3">
+        <dex dex="C:\Users\Bonface\AndroidStudioProjects\vTracker\app\build\intermediates\pre-dexed\debug\classes-a0771801cb82f9befa56b875881cab307d96c065.jar" />
+    </item>
+    <item
+        jar="C:\Users\Bonface\AndroidStudioProjects\vTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.8.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="cb6fab7a71fa9ec1f483d44c5fca65ab469d8aca">
+        <dex dex="C:\Users\Bonface\AndroidStudioProjects\vTracker\app\build\intermediates\pre-dexed\debug\classes-310789ce772c771ef2b2da60224ff1bd3067938f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Bonface\AndroidStudioProjects\vTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.8.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2491ae1b2a848af1f4f0c795f3117c1bd6a1989f">
+        <dex dex="C:\Users\Bonface\AndroidStudioProjects\vTracker\app\build\intermediates\pre-dexed\debug\classes-57d36069efa08b1d2db7163421518690fc3e0e20.jar" />
+    </item>
+    <item
+        jar="C:\Users\Bonface\AndroidStudioProjects\vTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.8.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c756d14e99d39471e99013a1e8fd2f3813ed42bf">
+        <dex dex="C:\Users\Bonface\AndroidStudioProjects\vTracker\app\build\intermediates\pre-dexed\debug\classes-9593c3a826b4f9c93b5ad75691f0c252892aae4a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Bonface\AndroidStudioProjects\vTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.8.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="166e458ee3b5fb5fcff0f936df3f3a788e6c54f3">
+        <dex dex="C:\Users\Bonface\AndroidStudioProjects\vTracker\app\build\intermediates\pre-dexed\debug\classes-84b72ef3b2d05f04032f16ed5ef972272d532e23.jar" />
+    </item>
+    <item
+        jar="C:\Users\Bonface\AndroidStudioProjects\vTracker\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="dcf8c83c3dead00a6c4fe313e95f7aaca20dc641">
+        <dex dex="C:\Users\Bonface\AndroidStudioProjects\vTracker\app\build\intermediates\pre-dexed\debug\classes-3d1b4c53c758c37f3153414b1da05c7b6e313462.jar" />
+    </item>
+
+</items>

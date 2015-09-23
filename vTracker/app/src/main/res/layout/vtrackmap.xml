@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_horizontal"
+    android:background="#FFFFFF"
+    >
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/maptitle"
+        android:id="@+id/textView2"
+        android:textIsSelectable="false"
+        android:textSize="23sp"
+        android:layout_gravity="center_horizontal"
+        android:gravity="center_horizontal"
+        android:background="#7fa87f"
+        android:textColor="#ffffff"
+        android:typeface="serif" />
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal">
+
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:background="@color/background_floating_material_dark">
+
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#ffffff"
+                android:gravity="center_horizontal">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/tspeed"
+                    android:id="@+id/tSpeed"
+                    android:textSize="17sp"
+                    android:textStyle="bold"
+                    android:paddingLeft="15sp"
+                    android:textColor="#363636"
+                    android:background="#ffffff"
+                    android:typeface="serif" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/speed"
+                    android:id="@+id/rspeed"
+                    android:textSize="17sp"
+                    android:textColor="#363636"
+                    android:background="#ffffff"
+                    android:typeface="serif" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/pwr"
+                    android:id="@+id/textView3"
+                    android:paddingLeft="10dp"
+                    android:textStyle="bold"
+                    android:textSize="17sp"
+                    android:textColor="#363636"
+                    android:background="#ffffff"
+                    android:typeface="serif" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:text="@string/rpwr"
+                    android:id="@+id/pwr"
+                    android:paddingLeft="10sp"
+                    android:textSize="17sp"
+                    android:textColor="#363636"
+                    android:background="#ffffff"
+                    android:typeface="serif" />
+
+            </LinearLayout>
+
+        </LinearLayout>
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:background="#ffffff">
+
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/door"
+                    android:id="@+id/door"
+                    android:textSize="17sp"
+                    android:textStyle="bold"
+                    android:paddingLeft="10sp"
+                    android:textColor="#363636"
+                    android:background="#ffffff"
+                    android:typeface="serif" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/rdoor"
+                    android:id="@+id/rdoor"
+                    android:textSize="17sp"
+                    android:textColor="#363636"
+                    android:background="#ffffff"
+                    android:typeface="serif" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/acc"
+                    android:id="@+id/acc"
+                    android:paddingLeft="20dp"
+                    android:textStyle="bold"
+                    android:textSize="17sp"
+                    android:textColor="#363636"
+                    android:background="#ffffff"
+                    android:typeface="serif" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/racc"
+                    android:id="@+id/racc"
+                    android:paddingLeft="10sp"
+                    android:textSize="17sp"
+                    android:textColor="#363636"
+                    android:background="#ffffff"
+                    android:typeface="serif" />
+
+            </LinearLayout>
+
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent">
+
+        <fragment xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+            android:layout_height="match_parent" android:id="@+id/map" tools:context=".Vtrackmap"
+            android:name="com.google.android.gms.maps.SupportMapFragment"
+            tools:layout="@layout/abc_screen_content_include"
+
+            />
+    </LinearLayout>
+    
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:orientation="horizontal"
+        android:layout_weight="10"
+        >
+    <Button
+    android:layout_width="wrap_content"
+    android:layout_height="match_parent"
+    android:id="@+id/btnNormal"
+    />
+     <Button
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:id="@+id/btnHybrid"
+            />
+
+     <Button
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:id="@+id/btnTerrain"
+            />
+
+
+        </LinearLayout>
+
+</LinearLayout>
